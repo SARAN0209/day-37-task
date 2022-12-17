@@ -1,4 +1,3 @@
-use "Day-37-task"
 db.createCollection("products");
 
 db.products.insertMany([
